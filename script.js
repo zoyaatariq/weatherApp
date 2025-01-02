@@ -28,9 +28,3 @@ function fetchWeather(location) {
             console.error('Error fetching weather data:', error);
         });
 }
-
-
-
-Step 5: Get Your API Key
-
-Sign up for a free API key from OpenWeather
